@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+    <url>
+        <loc>https://tokyo-ip-consulting.com/patent-seminar-in-tokyo/</loc>
+        <video:video>
+            <video:thumbnail_loc>https://img.youtube.com/vi/VDuBhHJVpOo/hqdefault.jpg</video:thumbnail_loc>
+            <video:title>東京特許調査セミナー (2024/05/01)</video:title>
+            <video:description>東京特許調査セミナーのご紹介動画です。</video:description>
+            <video:player_loc>https://www.youtube.com/embed/VDuBhHJVpOo</video:player_loc>
+        </video:video>
+    </url>
+    <url>
+        <loc>https://tokyo-ip-consulting.com/trailer_ip_management_strategies/</loc>
+        <video:video>
+            <video:thumbnail_loc>https://img.youtube.com/vi/Niv42FQ_j7w/hqdefault.jpg</video:thumbnail_loc>
+            <video:title>【予告編】【5月28日公開】知的財産を活用した経営戦略のススメ</video:title>
+            <video:description>知財戦略の予告編。Tokyo IP Consulting 弁理士渡辺浩司による講演。</video:description>
+            <video:player_loc>https://www.youtube.com/embed/Niv42FQ_j7w</video:player_loc>
+        </video:video>
+    </url>
+    <url>
+        <loc>https://tokyo-ip-consulting.com/ip_management_strategeis_part_one/</loc>
+        <video:video>
+            <video:thumbnail_loc>https://img.youtube.com/vi/6cYL-oHFhYU/hqdefault.jpg</video:thumbnail_loc>
+            <video:title>【第一部】知財で利益を上げるには | 経営戦略のススメ</video:title>
+            <video:description>Tokyo IP Consulting 弁理士渡辺浩司による知財戦略セミナー第一部。</video:description>
+            <video:player_loc>https://www.youtube.com/embed/6cYL-oHFhYU</video:player_loc>
+        </video:video>
+    </url>
+    <url>
+        <loc>https://tokyo-ip-consulting.com/ip_management_strategeis_part_two/</loc>
+        <video:video>
+            <video:thumbnail_loc>https://img.youtube.com/vi/gFmy4qmCqwM/hqdefault.jpg</video:thumbnail_loc>
+            <video:title>【第二部】知財が経営指標に与える影響とは</video:title>
+            <video:description>Tokyo IP Consulting 弁理士渡辺浩司による知財戦略セミナー第二部。</video:description>
+            <video:player_loc>https://www.youtube.com/embed/gFmy4qmCqwM</video:player_loc>
+        </video:video>
+    </url>
+    <url>
+        <loc>https://tokyo-ip-consulting.com/ip_management_strategeis_part_three/</loc>
+        <video:video>
+            <video:thumbnail_loc>https://img.youtube.com/vi/FIGHFBnmmlo/hqdefault.jpg</video:thumbnail_loc>
+            <video:title>【第三部】知的財産を活用した経営戦略のススメ -知財流動化のための方策とは-</video:title>
+            <video:description>Tokyo IP Consulting 弁理士渡辺浩司による知財戦略セミナー第三部。</video:description>
+            <video:player_loc>https://www.youtube.com/embed/FIGHFBnmmlo</video:player_loc>
+        </video:video>
+    </url>
+</urlset>
